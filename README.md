@@ -1,4 +1,4 @@
-# Développeur
+# Développeurs
 
 Le guide du développeur.
 
