@@ -123,3 +123,7 @@ Le guide du développeur.
 ° https://www.lewagon.com/fr
 
 ° https://www.thehackingproject.org/
+
+## Linux 
+
+° https://tldp.org/guides.html
