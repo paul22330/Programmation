@@ -113,3 +113,12 @@ Guide du développeur.
 ° https://devguide.python.org/#
 
 ° https://github.com/erkin/ponysay
+
+## Ecole de code
+----------------
+
+° https://admissions.42.fr/users/sign_up
+
+° https://www.lewagon.com/fr
+
+° https://www.thehackingproject.org/
