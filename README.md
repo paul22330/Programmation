@@ -1,5 +1,6 @@
 # Développeur
-Guide du développeur.
+
+Le guide du développeur.
 
 ## Sites divers
 ---------------
