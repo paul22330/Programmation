@@ -77,6 +77,24 @@ Guide du développeur.
 ## React
 --------
 
+° https://olena.hashnode.dev/series/react-and-styled-components
+
+° https://codesandbox.io/
+
+° https://fr.reactjs.org/
+
+° https://create-react-app.dev/
+
+° https://github.com/reactstrap
+
+° https://thevalleyofcode.com/react/
+
+° https://getdoc.wiki/Sp%C3%A9cial:Cat%C3%A9gories?from=React
+
+° https://thinkster.io/tutorials/fundamentals-of-react-introduction
+
+° https://www.commentcoder.com/apprendre-react/
+
 ## Python
 ---------
 
