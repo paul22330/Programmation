@@ -1,4 +1,4 @@
-# developpeur
+# Développeur
 Guide du développeur.
 
 ## Sites divers
