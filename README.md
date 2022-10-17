@@ -98,4 +98,18 @@ Guide du développeur.
 ## Python
 ---------
 
+° https://www.golinuxcloud.com/python-multiline-comments/
 
+° https://python.doctor/
+
+° https://www.python.org/
+
+° https://pythonawesome.com/
+
+° https://www.scaler.com/topics/python/
+
+° https://python.plainenglish.io/
+
+° https://devguide.python.org/#
+
+° https://github.com/erkin/ponysay
