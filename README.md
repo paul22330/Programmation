@@ -114,7 +114,7 @@ Guide du développeur.
 
 ° https://github.com/erkin/ponysay
 
-## Ecole de code
+## École de code
 ----------------
 
 ° https://admissions.42.fr/users/sign_up
