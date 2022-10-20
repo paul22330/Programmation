@@ -131,3 +131,5 @@ Le guide du développeur.
 ° https://tldp.org/guides.html
 
 ° https://www.systutorials.com/
+
+° https://www.linux.com/
