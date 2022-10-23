@@ -99,6 +99,8 @@ Le guide du développeur.
 ## Python
 ---------
 
+° https://pymbook.readthedocs.io/en/py3/
+
 ° https://www.golinuxcloud.com/python-multiline-comments/
 
 ° https://python.doctor/
