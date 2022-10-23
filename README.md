@@ -115,8 +115,6 @@ Le guide du développeur.
 
 ° https://devguide.python.org/#
 
-° https://github.com/erkin/ponysay
-
 ## École de code
 ----------------
 
