@@ -128,8 +128,10 @@ Le guide du développeur.
 
 ## Linux 
 
-° https://tldp.org/guides.html
+° [theflashreads-linux](https://theflashreads.com/categories#linux)
 
-° https://www.systutorials.com/
+° [tldp-linux](https://tldp.org/guides.html)
+
+° [systutorials-linux](https://www.systutorials.com/)
 
 ° https://www.linux.com/
