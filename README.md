@@ -80,15 +80,13 @@ Le guide du développeur.
 ## React
 --------
 
-° https://olena.hashnode.dev/series/react-and-styled-components
+° [olena hashnode react](https://olena.hashnode.dev/series/react-and-styled-components)
 
-° https://codesandbox.io/
+° [reactjs](https://fr.reactjs.org/)
 
-° https://fr.reactjs.org/
+° [create-react-app](https://create-react-app.dev/)
 
-° https://create-react-app.dev/
-
-°  [reactstrap-github](https://github.com/reactstrap)
+° [reactstrap-github](https://github.com/reactstrap)
 
 ° [thevalleyofcode](https://thevalleyofcode.com/react/)
 
