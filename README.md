@@ -120,13 +120,13 @@ Le guide du développeur.
 ## École de code
 ----------------
 
-° https://www.thearenaproject.co/
+° [thearenaproject](https://www.thearenaproject.co/)
 
-° https://admissions.42.fr/users/sign_up
+° [admissions 42](https://admissions.42.fr/users/sign_up)
 
-° https://www.lewagon.com/fr
+° [lewagon](https://www.lewagon.com/fr)
 
-° https://www.thehackingproject.org/
+° [thehackingproject](https://www.thehackingproject.org/)
 
 ## Linux 
 
@@ -136,4 +136,4 @@ Le guide du développeur.
 
 ° [systutorials-linux](https://www.systutorials.com/)
 
-° https://www.linux.com/
+° [linux](https://www.linux.com/)
