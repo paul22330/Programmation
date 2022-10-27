@@ -100,6 +100,7 @@ Le guide du développeur.
 
 ## Python
 ---------
+° [realpython](https://realpython.com/)
 
 ° [pymbook readthedocs](https://pymbook.readthedocs.io/en/py3/)
 
