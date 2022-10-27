@@ -101,21 +101,21 @@ Le guide du développeur.
 ## Python
 ---------
 
-° https://pymbook.readthedocs.io/en/py3/
+° [pymbook readthedocs](https://pymbook.readthedocs.io/en/py3/)
 
-° https://www.golinuxcloud.com/python-multiline-comments/
+° [golinuxcloud-python](https://www.golinuxcloud.com/python-multiline-comments/)
 
-° https://python.doctor/
+° [python doctor](https://python.doctor/)
 
-° https://www.python.org/
+° [python](https://www.python.org/)
 
-° https://pythonawesome.com/
+° [pythonawesome](https://pythonawesome.com/)
 
-° https://www.scaler.com/topics/python/
+° [scaler](https://www.scaler.com/topics/python/)
 
-° https://python.plainenglish.io/
+° [python plainenglish](https://python.plainenglish.io/)
 
-° https://devguide.python.org/#
+° [devguide python](https://devguide.python.org/#)
 
 ## École de code
 ----------------
