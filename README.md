@@ -88,18 +88,19 @@ Le guide du développeur.
 
 ° https://create-react-app.dev/
 
-° https://github.com/reactstrap
+°  [reactstrap-github](https://github.com/reactstrap)
 
-° https://thevalleyofcode.com/react/
+° [thevalleyofcode](https://thevalleyofcode.com/react/)
 
-° https://getdoc.wiki/Sp%C3%A9cial:Cat%C3%A9gories?from=React
+° [getdoc wiki React](https://getdoc.wiki/Sp%C3%A9cial:Cat%C3%A9gories?from=React)
 
-° https://thinkster.io/tutorials/fundamentals-of-react-introduction
+° [thinkster](https://thinkster.io/tutorials/fundamentals-of-react-introduction)
 
-° https://www.commentcoder.com/apprendre-react/
+° [commentcoder](https://www.commentcoder.com/apprendre-react/)
 
 ## Python
 ---------
+
 ° [realpython](https://realpython.com/)
 
 ° [pymbook readthedocs](https://pymbook.readthedocs.io/en/py3/)
