@@ -98,6 +98,7 @@ Le guide du développeur.
 
 ## Python
 ---------
+° [securecoding-penetration-testing](https://www.securecoding.com/blog/penetration-testing-python/)
 
 ° [realpython](https://realpython.com/)
 
