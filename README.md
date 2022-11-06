@@ -98,6 +98,8 @@ Le guide du développeur.
 
 ## Python
 ---------
+° [github web-scraping](https://github.com/oxylabs/web-scraping-tutorials)
+
 ° [securecoding-penetration-testing](https://www.securecoding.com/blog/penetration-testing-python/)
 
 ° [realpython](https://realpython.com/)
