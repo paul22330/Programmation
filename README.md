@@ -80,7 +80,7 @@ Le guide du développeur.
 ## React
 --------
 
-° [olena hashnode react](https://olena.hashnode.dev/series/react-and-styled-components)
+°  [vitejs](https://vitejs.dev/guide/)
 
 ° [reactjs](https://fr.reactjs.org/)
 
@@ -88,9 +88,11 @@ Le guide du développeur.
 
 ° [reactstrap-github](https://github.com/reactstrap)
 
-° [thevalleyofcode](https://thevalleyofcode.com/react/)
-
 ° [getdoc wiki React](https://getdoc.wiki/Sp%C3%A9cial:Cat%C3%A9gories?from=React)
+
+° [olena hashnode react](https://olena.hashnode.dev/series/react-and-styled-components)
+
+° [thevalleyofcode](https://thevalleyofcode.com/react/)
 
 ° [thinkster](https://thinkster.io/tutorials/fundamentals-of-react-introduction)
 
@@ -98,6 +100,7 @@ Le guide du développeur.
 
 ## Python
 ---------
+
 ° [github web-scraping](https://github.com/oxylabs/web-scraping-tutorials)
 
 ° [securecoding-penetration-testing](https://www.securecoding.com/blog/penetration-testing-python/)
@@ -119,6 +122,7 @@ Le guide du développeur.
 ° [python plainenglish](https://python.plainenglish.io/)
 
 ° [devguide python](https://devguide.python.org/#)
+
 
 ## École de code
 ----------------
