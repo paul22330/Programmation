@@ -105,6 +105,8 @@ Le guide du développeur.
 
 ° [securecoding-penetration-testing](https://www.securecoding.com/blog/penetration-testing-python/)
 
+° [online-python](https://www.online-python.com/)
+
 ° [realpython](https://realpython.com/)
 
 ° [pymbook readthedocs](https://pymbook.readthedocs.io/en/py3/)
