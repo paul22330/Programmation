@@ -27,21 +27,21 @@
 
 ° [codesphere](https://codesphere.com/ide?variant=dark)
 
-° https://andrejgajdos.com/list-of-free-online-tools-for-front-end-web-development/
+° [andrejgajdos](https://andrejgajdos.com/list-of-free-online-tools-for-front-end-web-development/)
 
-° https://softauthor.com/
+° [softauthor](https://softauthor.com/)
 
-° https://render.com/docs/deploy-rails
+° [render rails](https://render.com/docs/deploy-rails)
 
-° https://www.includehelp.com/
+° [includehelp](https://www.includehelp.com/)
 
-° https://blog.openreplay.com/
+° [blog openreplay](https://blog.openreplay.com/)
 
-° https://htmldog.com/guides/
+° [htmldog](https://htmldog.com/guides/)
 
-° https://www.quackit.com/
+° [quackit](https://www.quackit.com/)
 
-° https://devdocs.io/
+° [devdocs](https://devdocs.io/)
 
 ° https://ui.dev/blog
 
