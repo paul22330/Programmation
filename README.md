@@ -49,33 +49,33 @@
 
 ° [amp dev](https://amp.dev/fr/documentation/templates/?format=websites)
 
-° https://fr.javascript.info/
+° [javascript info](https://fr.javascript.info/)
 
-° https://www.brainscape.com/
+° [brainscape](https://www.brainscape.com/)
 
-° https://www.usedevbook.com/
+° [usedevbook](https://www.usedevbook.com/)
 
-° https://jhey.dev/links/
+° [jhey dev](https://jhey.dev/links/)
 
-° https://githubtrends.netlify.app/
+° [githubtrends](https://githubtrends.netlify.app/)
 
-° https://programmation-web.com/index.html
+° [programmation-web](https://programmation-web.com/index.html)
 
-° https://css-tricks.com/
+° [css-tricks](https://css-tricks.com/)
 
-° https://learncssgrid.com/
+° [learncssgrid](https://learncssgrid.com/)
 
-° https://runebook.dev/fr/docs/css/-index-
+° [runebook dev](https://runebook.dev/fr/docs/css/-index-)
 
-° https://hashnode.com/explore
+° [hashnode](https://hashnode.com/explore)
 
-° https://www.codeleaks.io/
+° [codeleaks](https://www.codeleaks.io/)
 
-° https://www.libhunt.com/
+° [libhunt](https://www.libhunt.com/)
 
-° https://haileababrha.wordpress.com/2016/12/06/most-commonly-used-git-commands/
+° [haileababrha wordpress](https://haileababrha.wordpress.com/2016/12/06/most-commonly-used-git-commands/)
 
-° https://www.polywork.com/whitep4nth3r/collections/383
+° [polywork](https://www.polywork.com/whitep4nth3r/collections/383)
 
 ## React
 --------
