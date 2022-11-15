@@ -4,6 +4,7 @@
 
 ### Sites divers
 ---------------
+° [learnxinyminutes](https://learnxinyminutes.com/)
 
 ° [lucidar](https://lucidar.me/fr/)
 
