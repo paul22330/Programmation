@@ -1,6 +1,6 @@
-# Développeurs
 
-Le guide du développeur.
+
+# Le guide du développeur a pour but d'aider les débutants au travers divers liens que j'ai trouvé.
 
 ## Sites divers
 ---------------
@@ -19,13 +19,13 @@ Le guide du développeur.
 
 ° [orangeable](https://orangeable.com/css)
 
-° https://books.goalkicker.com/
+° [goalkicker](https://books.goalkicker.com/)
 
-° https://blog.greenroots.info/
+° [blog greenroots](https://blog.greenroots.info/)
 
-° https://www.delftstack.com/fr/
+° [delftstack](https://www.delftstack.com/fr/)
 
-° https://codesphere.com/ide?variant=dark
+° [codesphere](https://codesphere.com/ide?variant=dark)
 
 ° https://andrejgajdos.com/list-of-free-online-tools-for-front-end-web-development/
 
