@@ -43,11 +43,11 @@
 
 ° [devdocs](https://devdocs.io/)
 
-° https://ui.dev/blog
+° [ui dev](https://ui.dev/blog)
 
-° https://tiny-helpers.dev/
+° [tiny helpers](https://tiny-helpers.dev/)
 
-° https://amp.dev/fr/documentation/templates/?format=websites
+° [amp dev](https://amp.dev/fr/documentation/templates/?format=websites)
 
 ° https://fr.javascript.info/
 
