@@ -5,19 +5,19 @@ Le guide du développeur.
 ## Sites divers
 ---------------
 
-° https://apcpedagogie.com/cours-et-tutoriels/les_cours/cours-de-programmation/
+° [lucidar](https://lucidar.me/fr/)
 
-° https://sabe.io/classes
+° [apcpedagogie](https://apcpedagogie.com/cours-et-tutoriels/les_cours/cours-de-programmation/)
 
-° https://daily-dev-tips.com/
+° [sabe](https://sabe.io/classes)
 
-° https://grabthiscode.com/search-from
+° [daily dev tips](https://daily-dev-tips.com/)
 
-° https://stackblitz.com/
+° [grabthiscode](https://grabthiscode.com/search-from)
 
-° https://orangeable.com/css
+° [stackblitz](https://stackblitz.com/)
 
-° https://la-cascade.io/
+° [orangeable](https://orangeable.com/css)
 
 ° https://books.goalkicker.com/
 
