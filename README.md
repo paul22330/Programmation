@@ -1,8 +1,8 @@
 
 
-# Le guide du développeur a pour but d'aider les débutants au travers divers liens que j'ai trouvé.
+## Le guide du développeur a pour but d'aider les débutants au travers divers liens que j'ai trouvé.
 
-## Sites divers
+### Sites divers
 ---------------
 
 ° [lucidar](https://lucidar.me/fr/)
