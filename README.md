@@ -4,6 +4,9 @@
 
 ### Sites divers
 ---------------
+
+° [hugedomains](https://www.hugedomains.com/index.cfm)
+
 ° [learnxinyminutes](https://learnxinyminutes.com/)
 
 ° [lucidar](https://lucidar.me/fr/)
