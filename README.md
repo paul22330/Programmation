@@ -4,6 +4,7 @@
 
 ### Sites divers
 ---------------
+° [onebitcode](https://onebitcode.com/lp/)
 
 ° [learnxinyminutes](https://learnxinyminutes.com/)
 
