@@ -83,6 +83,8 @@
 ## React
 --------
 
+° [react-conf vidéo](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ/videos)
+
 °  [vitejs](https://vitejs.dev/guide/)
 
 ° [reactjs](https://fr.reactjs.org/)
