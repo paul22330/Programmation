@@ -84,6 +84,8 @@
 -------------
 ° [jsprogramming](https://jsprogramming.net/)
 
+° [lenguajejs](https://lenguajejs.com/javascript/) [traduire]
+
 ## React
 --------
 
