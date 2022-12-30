@@ -163,6 +163,8 @@
 
 ## Les outils 
 
+° [readme-so](https://readme.so/fr)
+
 ° [excalidraw-schéma](https://excalidraw.com/)
 
 ° [codepen](https://codepen.io/)
