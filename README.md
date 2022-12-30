@@ -1,9 +1,10 @@
 
 
-## Le guide du développeur a pour but d'aider les débutants au travers divers liens que j'ai trouvé.
+## Le guide du développeur a pour but d'aider les débutants au travers de divers liens que j'ai trouvé.
 
 ### Sites divers
 ---------------
+
 ° [onebitcode](https://onebitcode.com/lp/)
 
 ° [learnxinyminutes](https://learnxinyminutes.com/)
@@ -137,8 +138,8 @@
 ° [devguide python](https://devguide.python.org/#)
 
 
-## École de code
-----------------
+## École de code +  apprentissage
+----------------------------------
 
 ° [thearenaproject](https://www.thearenaproject.co/)
 
@@ -147,6 +148,8 @@
 ° [lewagon](https://www.lewagon.com/fr)
 
 ° [thehackingproject](https://www.thehackingproject.org/)
+
+° [scrimba](https://scrimba.com/)
 
 ## Linux 
 
