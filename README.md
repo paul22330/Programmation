@@ -112,6 +112,7 @@
 
 ## Python
 ---------
+° [pythonds linogaliana](https://pythonds.linogaliana.fr/)
 
 ° [github web-scraping](https://github.com/oxylabs/web-scraping-tutorials)
 
