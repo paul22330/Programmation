@@ -12,6 +12,8 @@
 ### Sites divers
 ---------------
 
+° [emeritus](https://emeritus.org/blog/categories/coding/)
+
 ° [onebitcode](https://onebitcode.com/lp/)
 
 ° [learnxinyminutes](https://learnxinyminutes.com/)
