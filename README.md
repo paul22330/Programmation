@@ -174,11 +174,13 @@
 
 ## Les outils 
 
+° [codepen](https://codepen.io/)
+
 ° [readme-so](https://readme.so/fr)
 
 ° [excalidraw-schéma](https://excalidraw.com/)
 
-° [codepen](https://codepen.io/)
+° [mindmeister](https://www.mindmeister.com/fr/)
 
-° [whimsical](https://whimsical.com/)
+
 
