@@ -163,6 +163,7 @@
 ° [scrimba](https://scrimba.com/)
 
 ## Linux 
+---------
 
 ° [theflashreads-linux](https://theflashreads.com/categories#linux)
 
@@ -173,6 +174,7 @@
 ° [linux](https://www.linux.com/)
 
 ## Les outils 
+-------------
 
 ° [codepen](https://codepen.io/)
 
