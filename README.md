@@ -1,7 +1,7 @@
 
 💻
 
-# Ces liens sont en cours de changement, merci de votre indulgence.
+# Ces liens sont en cours de changement, merci.
 
 ### Aides
 --------
