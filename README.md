@@ -1,7 +1,7 @@
 
 💻
 
-## Le guide du développeur a pour but d'aider les débutants au travers de divers liens que j'ai trouvé.
+# Ces liens sont en cours de changement, merci de votre indulgence.
 
 ### Aides
 --------
